@@ -1,0 +1,28 @@
+{
+  "name": "sortable-list-card",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A generic drag-and-drop reorderable list for Home Assistant that saves the order via any service",
+  "keywords": [
+    "home-assistant",
+    "homeassistant",
+    "hass",
+    "dashboard",
+    "custom-cards",
+    "sortable",
+    "list",
+    "reorder",
+    "drag-and-drop",
+    "priority"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flixlix/flixlix-cards.git"
+  },
+  "author": "flixlix",
+  "bugs": {
+    "url": "https://github.com/flixlix/flixlix-cards/issues"
+  },
+  "homepage": "https://github.com/flixlix/flixlix-cards#readme"
+}
